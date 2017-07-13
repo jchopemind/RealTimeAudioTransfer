@@ -1,2 +1,1 @@
-# RealTimeAudioTransfer
-A Real-time Audio Transfer by TCP/IP protocol.
+This is a project for Real-time audio transfer.
